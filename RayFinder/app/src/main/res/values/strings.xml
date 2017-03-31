@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RayFinder</string>
+    <string name="title_activity_maps">RayFinder</string>
+    <string name="default_radius">5000</string>
+</resources>
